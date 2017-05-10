@@ -67,7 +67,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
       <tr>
       <td><?php echo $row['nombre_servicio']?></td>
       <td><?php echo $row['descripcion_servicio']?></td>
-      <td><img src ="<?php echo $row['imagen_servicio']?>"></td>
+      <td><img src ="<?php echo $row['imagen_servicio']?>"><img></td>
       </tr>
      <?php }
   } else {
