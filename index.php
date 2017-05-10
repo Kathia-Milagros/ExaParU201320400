@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	<head>
 <title>PC1</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,6 +14,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-anchor,.fa-coffee {font-size:100px}
 </style>
+		</head>
 <body>
 
 <!-- Header -->
@@ -33,9 +35,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
      
      	<div>
      	<center> 
-		<image src="https://raw.githubusercontent.com/Kathia-Milagros/ExamenParcial/master/images/13.png"  width="1000" height="400" >
-		</center> 
-		</div>		
+		<image src="https://raw.githubusercontent.com/Kathia-Milagros/ExamenParcial/master/images/13.png"  width="1000" height="400" />
+	</center>
+	</div>	
+		
     </div>
   </div>
 </div>
@@ -94,8 +97,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
      
      	<div>
      	<center> 
-		<image src="https://raw.githubusercontent.com/Kathia-Milagros/ExamenParcial/master/images/12.png" width="1000" height="400" >
-		</center> 
+		<image src="https://raw.githubusercontent.com/Kathia-Milagros/ExamenParcial/master/images/12.png" width="1000" height="400" />
+		</center>
 		</div>		
     </div>
   </div>
